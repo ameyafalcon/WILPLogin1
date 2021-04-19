@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Templates/.idea/Templates.iml" filepath="$USER_HOME$/Templates/.idea/Templates.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/WILPLogin.iml" filepath="$PROJECT_DIR$/.idea/WILPLogin.iml" />
+    </modules>
+  </component>
+</project>
